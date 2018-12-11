@@ -1,4 +1,5 @@
 # b-ui
+一个依赖Vue构建的UI框架
 
 ## Project setup
 ```
