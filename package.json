@@ -2,6 +2,7 @@
   "name": "b-ui",
   "version": "0.1.0",
   "private": true,
+  "description": "一个依赖Vue构建的UI框架",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -25,5 +26,21 @@
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "vue-template-compiler": "^2.5.17"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedyWhale/b-ui.git"
+  },
+  "keywords": [
+    "Vue",
+    "UI",
+    "easy"
+  ],
+  "author": "caisr <madaocai@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreedyWhale/b-ui/issues"
+  },
+  "homepage": "https://github.com/GreedyWhale/b-ui#readme"
 }
